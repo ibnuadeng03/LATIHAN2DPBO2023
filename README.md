@@ -89,21 +89,21 @@ g++ main.cpp -o [nama file anda].exe
 py main.py
 ```
 ### Dokumentasi Running Program
-##### Berikut merupakan dokumentasi hasil running dalam bahasa pemrograman PHP
-##### ![PHP](/php/screenshot/1.png "1").
-##### ![PHP](/php/screenshot/2.ppg "2").
-##### ![PHP](/php/screenshot/3.ppg "3").
+##### A. Berikut merupakan dokumentasi hasil running dalam bahasa pemrograman PHP
+##### ![PHP](/php/screenshot/1.png "1")
+##### ![PHP](/php/screenshot/2.png "2")
+##### ![PHP](/php/screenshot/3.png "3")
 
-##### Berikut merupakan dokumentasi hasil running dalam bahasa pemrograman Java
-##### ![Java](/java/SCREENSHOT/1.png "1").
-##### ![Java](/java/SCREENSHOT/2.png "2").
+##### B. Berikut merupakan dokumentasi hasil running dalam bahasa pemrograman Java
+##### ![Java](/java/SCREENSHOT/1.png "1")
+##### ![Java](/java/SCREENSHOT/2.png "2")
 
-##### Berikut merupakan dokumentasi hasil running dalam bahasa pemrograman C++
-##### ![C++](/C++/Screenshot/1.png "1").
-##### ![C++](/C++/Screenshot/2.png "2").
+##### C. Berikut merupakan dokumentasi hasil running dalam bahasa pemrograman C++
+##### ![C++](/C++/Screenshot/1.png "1")
+##### ![C++](/C++/Screenshot/2.png "2")
 
-##### Berikut merupakan dokumentasi hasil running dalam bahasa pemrograman Python
-##### ![Pyhton](/pyhton/screenshot/1.png "1").
+##### D. Berikut merupakan dokumentasi hasil running dalam bahasa pemrograman Python
+##### ![Pyhton](/pyhton/screenshot/1.png "1")
 
 ### **Catatan**
 *Penjelasan dan/atau tampilan hasil program dari kode ini, dimuat didalam  folder yang berinduk difolder "screenshoot"*
