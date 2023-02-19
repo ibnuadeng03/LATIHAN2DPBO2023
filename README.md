@@ -90,14 +90,20 @@ py main.py
 ```
 ### Dokumentasi Running Program
 ##### Berikut merupakan dokumentasi hasil running dalam bahasa pemrograman PHP
-##### ![PHP](/Latihan1/PHP/screenshot/1.jpg "1").
-##### ![PHP](/Latihan1/PHP/screenshot/2.jpg "2").
+##### ![PHP](/php/screenshot/1.png "1").
+##### ![PHP](/php/screenshot/2.ppg "2").
+##### ![PHP](/php/screenshot/3.ppg "3").
 
 ##### Berikut merupakan dokumentasi hasil running dalam bahasa pemrograman Java
-##### ![Java](/Latihan1/PHP/screenshot/1.jpg "1").
-##### ![Java](/Latihan1/PHP/screenshot/2.jpg "2").
+##### ![Java](/java/SCREENSHOT/1.png "1").
+##### ![Java](/java/SCREENSHOT/2.png "2").
 
+##### Berikut merupakan dokumentasi hasil running dalam bahasa pemrograman C++
+##### ![C++](/C++/Screenshot/1.png "1").
+##### ![C++](/C++/Screenshot/2.png "2").
 
+##### Berikut merupakan dokumentasi hasil running dalam bahasa pemrograman Python
+##### ![Pyhton](/pyhton/screenshot/1.png "1").
 
 ### **Catatan**
 *Penjelasan dan/atau tampilan hasil program dari kode ini, dimuat didalam  folder yang berinduk difolder "screenshoot"*
