@@ -31,15 +31,15 @@ c. Mahasiswa mampu memahami konsep Inheretence dan implementasinya dalam Pemrogr
 ### Desain Program :
 Desain yang dibuat menggunakan ada beberapa kelas, diantaranya :
 1. Human
-   Kelas human memiliki 3 atribut, diantaranya : NIK, Nama dan Jenis Kelamin.
+   - Kelas human memiliki 3 atribut, diantaranya : NIK, Nama dan Jenis Kelamin.
 2. Sivitas Akademik
-   Kelas Sivitas Akademik memiliki 2 atribut, diantaranya : asal universitas dan email.
+   - Kelas Sivitas Akademik memiliki 2 atribut, diantaranya : asal universitas dan email.
 3. Mahasiswa
-   Kelas Sivitas Akademik memiliki 4 atribut, diantaranya : NIM, Prodi, Fakultas dan Pas Foto
+   - Kelas Sivitas Akademik memiliki 4 atribut, diantaranya : NIM, Prodi, Fakultas dan Pas Foto
 4. Crud
-   Kelas CRUD memiliki 5 atribut, yakni : email, asal universitas, NIM, Nama dan jenis kelamin.
-   Kelas ini memiliki 2 method yakni : create dan read.
-Semua kelas diatas dilengkapi dengan setter dan getternya. Pada kelas-kelas tersebut ada multi-level inheritance yakni dari dari **Class Human** -> **Class SivitasAkademik** -> Class Mahasiswa**. Hal ini terjadi karena Mahasiswa merupakan Human dan Sivitas akademik juga merupakan Human, sehingga inheriten nya seperti dijelaskan diatas.
+   - Kelas CRUD memiliki 5 atribut, yakni : email, asal universitas, NIM, Nama dan jenis kelamin.
+   - Kelas ini memiliki 2 method yakni : create dan read.
+Semua kelas diatas dilengkapi dengan setter dan getternya. Pada kelas-kelas tersebut ada multi-level inheritance yakni dari dari **Class Human** -> **Class SivitasAkademik** -> **Class Mahasiswa**. Hal ini terjadi karena Mahasiswa merupakan Human dan Sivitas akademik juga merupakan Human, sehingga inheriten nya seperti dijelaskan diatas.
 ### Tools :
 - [X] [MinGW](http://ayobikinprogram.blogspot.com/2012/06/mingw.html) : salah satu aplikasi yng digunakan untuk mengkompile bahasa C/C++ agar dapat dipahami oleh bahasa mesin *(asembler)* pada komputer.
 - [X] [JDK](https://www.duniailkom.com/tutorial-belajar-java-part-3-pengertian-jre-dan-jdk/) : JDK atau lengkapnya *Java Development Kit* adalah sebuah paket aplikasi yang berisi JVM *(Java Virtual Machine)* + JRE *(Java Runtime Environment)* + berbagai aplikasi untuk proses pembuatan kode program Java.
