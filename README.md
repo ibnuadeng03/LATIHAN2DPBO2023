@@ -25,6 +25,10 @@ c. Mahasiswa mampu memahami konsep Inheretence dan implementasinya dalam Pemrogr
 	untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. 
 	Aamiin.
 
+*Design ini disusun dan/atau digunakan hanya untuk lingkungan sendiri.
+	Tidak untuk menjadi konsumsi/kepentingan umum.
+	Hanya untuk melengkapi tugas DPBO 2023.*
+
 ### Bahasa Pemrograman Yang Dipakai :
 - [X] [Java](https://azure.microsoft.com/id-id/resources/cloud-computing-dictionary/what-is-java-programming-language/) : bahasa pemrograman *Object Oriented multiplatform* yang pada umumnya digunakan untuk pengembangan aplikasi dan website yang sampai saat ini dijalankan pada miliaran perangkat di seluruh dunia.
 - [X] [C++](https://www.duniailkom.com/tutorial-belajar-c-plus-plus-pengertian-bahasa-pemrograman-c-plus-plus/) : bahasa pemrograman komputer yang bisa dipakai untuk membuat berbagai aplikasi *(general-purpose programming language)*, dan merupakan pengembangan dari bahasa pemrograman C.
